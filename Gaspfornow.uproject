@@ -54,7 +54,19 @@
 		{
 			"Name": "NetworkPrediction",
 			"Enabled": true
+		},
+		{
+			"Name": "ThreepeatAnimTools",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/576ae5f6-df60-42cc-b0e7-5681beb6d585"
+		},
+		{
+			"Name": "GizmoFramework",
+			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	],
 	"EpicSampleNameHash": "1673045636"
 }
