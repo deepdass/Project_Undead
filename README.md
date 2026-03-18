@@ -12,7 +12,7 @@ I come back to this project as I learn more about the game development pipeline 
 
 
 [![Watch the video](https://img.youtube.com/vi/Qs6ROI-gOcQ/maxresdefault.jpg)](https://youtu.be/Qs6ROI-gOcQ)
-[First Person implementation of GASP](https://youtu.be/Qs6ROI-gOcQ)
+[Watch This video - First Person implementation of GASP](https://youtu.be/Qs6ROI-gOcQ)
 <br>Achieved this by having two different meshes for the first-person view, which gives a much better first-person experience in my opinion without limiting the animations of the sample project compared to other methods
 
 <img width="1919" height="1039" alt="heroprop" src="https://github.com/user-attachments/assets/40ae624e-51ed-4515-a175-f830c168495d" />
